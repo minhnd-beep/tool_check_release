@@ -1,0 +1,40 @@
+name: play-watch
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # moi 30 phut. Doi thanh "0 * * * *" neu muon 1 tieng/lan
+  workflow_dispatch: {}        # cho phep bam chay tay tren tab Actions
+
+permissions:
+  contents: write              # de commit lai state.json
+
+concurrency:
+  group: play-watch
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Check Google Play
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+        run: python watch.py
+
+      - name: Commit state if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          if ! git diff --quiet -- state.json; then
+            git add state.json
+            git commit -m "update state [skip ci]"
+            git push
+          else
+            echo "state.json khong doi, bo qua commit."
+          fi
