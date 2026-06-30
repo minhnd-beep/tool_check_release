@@ -104,7 +104,7 @@ def main():
 
         if live and not was_live:
             link = f"https://play.google.com/store/apps/details?id={pkg}"
-            msg = (f"✅ <b>App da len Google Play!</b>\n"
+            msg = (f"✅ <b>Đã lên Google Play</b>\n"
                    f"<code>{pkg}</code>\n{link}")
             if send_telegram(chat_id, msg, thread_id):
                 print(f"  -> da bao {chat_id}"
