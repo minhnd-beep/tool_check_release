@@ -6,6 +6,6 @@
   "com.wallet.finance.expense.manager": false,
   "com.trickcall.fakecaller.callgenerator": false,
   "com.video.downloader.quicksave.hdvideos": false,
-  "com.football.live.score.results.tracker": false,
+  "com.football.live.score.results.tracker": true,
   "com.media.downloader.quicksave.filesaver": false
 }
