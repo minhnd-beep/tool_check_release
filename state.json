@@ -7,5 +7,6 @@
   "com.trickcall.fakecaller.callgenerator": false,
   "com.video.downloader.quicksave.hdvideos": false,
   "com.football.live.score.results.tracker": true,
-  "com.media.downloader.quicksave.filesaver": false
+  "com.media.downloader.quicksave.filesaver": false,
+  "com.fast.video.downloader.hd.saver": false
 }
