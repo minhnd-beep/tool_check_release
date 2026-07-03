@@ -4,7 +4,7 @@
   "com.pocketbudget.cash.flow.planner": false,
   "com.moneytracker.budget.expensebook": false,
   "com.wallet.finance.expense.manager": false,
-  "com.trickcall.fakecaller.callgenerator": false,
+  "com.trickcall.fakecaller.callgenerator": true,
   "com.video.downloader.quicksave.hdvideos": false,
   "com.football.live.score.results.tracker": true,
   "com.media.downloader.quicksave.filesaver": false,
