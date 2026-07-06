@@ -3,7 +3,7 @@
   "com.smartsaver.money.manager.book": true,
   "com.pocketbudget.cash.flow.planner": false,
   "com.moneytracker.budget.expensebook": true,
-  "com.wallet.finance.expense.manager": false,
+  "com.wallet.finance.expense.manager": true,
   "com.trickcall.fakecaller.callgenerator": true,
   "com.video.downloader.quicksave.hdvideos": false,
   "com.football.live.score.results.tracker": true,
