@@ -8,7 +8,7 @@
   "com.video.downloader.quicksave.hdvideos": false,
   "com.football.live.score.results.tracker": true,
   "com.media.downloader.quicksave.filesaver": false,
-  "com.fast.video.downloader.hd.saver": false,
+  "com.fast.video.downloader.hd.saver": true,
   "com.expensemanager.money.budget.insight.planner": true,
   "com.personalbudget.money.expense.management.tracker": false,
   "com.moneyguardian.daily.finance.expense.monitor": true
