@@ -11,5 +11,8 @@
   "com.fast.video.downloader.hd.saver": true,
   "com.expensemanager.money.budget.insight.planner": true,
   "com.personalbudget.money.expense.management.tracker": true,
-  "com.moneyguardian.daily.finance.expense.monitor": true
+  "com.moneyguardian.daily.finance.expense.monitor": true,
+  "com.personal.expensetracker": false,
+  "com.expenselog.dailytracker": false,
+  "com.cashbook.expenselog": false
 }
