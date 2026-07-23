@@ -13,5 +13,10 @@
   "com.personalbudget.money.expense.management.tracker": true,
   "com.moneyguardian.daily.finance.expense.monitor": true,
   "com.expenselog.dailytracker": false,
-  "com.cashbook.expenselog": false
+  "com.cashbook.expenselog": false,
+  "com.personal.budget.expensetracker.moneyjournal": false,
+  "com.budgetbook.moneylog": false,
+  "com.expensejournal.money": false,
+  "com.prank.call.incoming.creator": false,
+  "com.emitool.financetool.converter": false
 }
