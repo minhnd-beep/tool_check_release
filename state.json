@@ -14,9 +14,11 @@
   "com.moneyguardian.daily.finance.expense.monitor": true,
   "com.expenselog.dailytracker": false,
   "com.cashbook.expenselog": false,
-  "com.personal.budget.expensetracker.moneyjournal": false,
+  "com.personal.budget.expensetracker.moneyjournal": true,
   "com.budgetbook.moneylog": false,
   "com.expensejournal.money": false,
   "com.prank.call.incoming.creator": false,
-  "com.emitool.financetool.converter": false
+  "com.emitool.financetool.converter": false,
+  "com.pedometer.steptracker.walking": false,
+  "com.prankcall.simulator.callscreen.video.caller.makefun": false
 }
