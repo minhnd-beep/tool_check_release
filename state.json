@@ -20,5 +20,6 @@
   "com.prank.call.incoming.creator": false,
   "com.emitool.financetool.converter": false,
   "com.pedometer.steptracker.walking": false,
-  "com.prankcall.simulator.callscreen.video.caller.makefun": false
+  "com.prankcall.simulator.callscreen.video.caller.makefun": false,
+  "com.autoclick.assistant.auto.tap": false
 }
