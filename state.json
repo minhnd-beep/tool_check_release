@@ -19,7 +19,7 @@
   "com.expensejournal.money": true,
   "com.prank.call.incoming.creator": false,
   "com.emitool.financetool.converter": false,
-  "com.pedometer.steptracker.walking": false,
+  "com.pedometer.steptracker.walking": true,
   "com.prankcall.simulator.callscreen.video.caller.makefun": false,
   "com.autoclick.assistant.auto.tap": false,
   "com.moneymanager.daily.budget.expense": false,
