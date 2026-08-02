@@ -17,7 +17,7 @@
   "com.personal.budget.expensetracker.moneyjournal": true,
   "com.budgetbook.moneylog": false,
   "com.expensejournal.money": true,
-  "com.prank.call.incoming.creator": false,
+  "com.prank.call.incoming.creator": true,
   "com.emitool.financetool.converter": false,
   "com.pedometer.steptracker.walking": true,
   "com.prankcall.simulator.callscreen.video.caller.makefun": false,
