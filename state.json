@@ -22,8 +22,8 @@
   "com.pedometer.steptracker.walking": true,
   "com.prankcall.simulator.callscreen.video.caller.makefun": false,
   "com.autoclick.assistant.auto.tap": false,
-  "com.moneymanager.daily.budget.expense": false,
-  "com.budget.money.wallet.manager.finance": false,
-  "com.budget.expense.tracker.moneyapp": false,
+  "com.moneymanager.daily.budget.expense": true,
+  "com.budget.money.wallet.manager.finance": true,
+  "com.budget.expense.tracker.moneyapp": true,
   "com.moneytracker.wallet.finance.manager": false
 }
