@@ -25,7 +25,7 @@
   "com.moneymanager.daily.budget.expense": true,
   "com.budget.money.wallet.manager.finance": true,
   "com.budget.expense.tracker.moneyapp": true,
-  "com.moneytracker.wallet.finance.manager": false,
+  "com.moneytracker.wallet.finance.manager": true,
   "com.dailybudget.planner.money.manager": true,
   "com.emi.loan.calculator.finance.paymenttool": false,
   "com.mortgage.emi.calculator.finance.tool": false,
