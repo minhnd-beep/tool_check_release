@@ -18,7 +18,7 @@
   "com.budgetbook.moneylog": false,
   "com.expensejournal.money": true,
   "com.prank.call.incoming.creator": true,
-  "com.emitool.financetool.converter": false,
+  "com.emitool.financetool.converter": true,
   "com.pedometer.steptracker.walking": true,
   "com.prankcall.simulator.callscreen.video.caller.makefun": false,
   "com.autoclick.assistant.auto.tap": false,
@@ -31,5 +31,6 @@
   "com.mortgage.emi.calculator.finance.tool": false,
   "com.smart.emi.planner.finance.calculator": false,
   "com.loan.payment.estimator.finance.tool": false,
-  "com.pdfreader.pdfviewer.document.reader.file.manager": false
+  "com.pdfreader.pdfviewer.document.reader.file.manager": false,
+  "com.prank.call.simulator.fakecall.entertainment.funprank": false
 }
