@@ -21,7 +21,7 @@
   "com.emitool.financetool.converter": true,
   "com.pedometer.steptracker.walking": true,
   "com.prankcall.simulator.callscreen.video.caller.makefun": false,
-  "com.autoclick.assistant.auto.tap": false,
+  "com.autoclick.assistant.auto.tap": true,
   "com.moneymanager.daily.budget.expense": true,
   "com.budget.money.wallet.manager.finance": true,
   "com.budget.expense.tracker.moneyapp": true,
