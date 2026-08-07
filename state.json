@@ -30,7 +30,7 @@
   "com.emi.loan.calculator.finance.paymenttool": true,
   "com.mortgage.emi.calculator.finance.tool": true,
   "com.smart.emi.planner.finance.calculator": true,
-  "com.loan.payment.estimator.finance.tool": false,
+  "com.loan.payment.estimator.finance.tool": true,
   "com.pdfreader.pdfviewer.document.reader.file.manager": false,
   "com.prank.call.simulator.fakecall.entertainment.funprank": false
 }
