@@ -32,5 +32,5 @@
   "com.smart.emi.planner.finance.calculator": true,
   "com.loan.payment.estimator.finance.tool": true,
   "com.pdfreader.pdfviewer.document.reader.file.manager": true,
-  "com.prank.call.simulator.fakecall.entertainment.funprank": false
+  "com.prank.call.simulator.fakecall.entertainment.funprank": true
 }
