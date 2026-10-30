@@ -6,7 +6,7 @@
   "com.wallet.finance.expense.manager": true,
   "com.trickcall.fakecaller.callgenerator": true,
   "com.video.downloader.quicksave.hdvideos": false,
-  "com.football.live.score.results.tracker": true,
+  "com.football.live.score.results.tracker": false,
   "com.media.downloader.quicksave.filesaver": false,
   "com.fast.video.downloader.hd.saver": true,
   "com.expensemanager.money.budget.insight.planner": true,
