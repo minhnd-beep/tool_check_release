@@ -1,5 +1,5 @@
 {
-  "com.dailyspend.budget.expense.tracker": true,
+  "com.dailyspend.budget.expense.tracker": false,
   "com.smartsaver.money.manager.book": false,
   "com.pocketbudget.cash.flow.planner": false,
   "com.moneytracker.budget.expensebook": true,
@@ -10,7 +10,7 @@
   "com.media.downloader.quicksave.filesaver": false,
   "com.fast.video.downloader.hd.saver": true,
   "com.expensemanager.money.budget.insight.planner": true,
-  "com.personalbudget.money.expense.management.tracker": true,
+  "com.personalbudget.money.expense.management.tracker": false,
   "com.moneyguardian.daily.finance.expense.monitor": true,
   "com.expenselog.dailytracker": true,
   "com.cashbook.expenselog": false,
