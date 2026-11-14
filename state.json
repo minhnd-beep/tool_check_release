@@ -21,7 +21,7 @@
   "com.emitool.financetool.converter": true,
   "com.pedometer.steptracker.walking": true,
   "com.prankcall.simulator.callscreen.video.caller.makefun": true,
-  "com.autoclick.assistant.auto.tap": true,
+  "com.autoclick.assistant.auto.tap": false,
   "com.moneymanager.daily.budget.expense": false,
   "com.budget.money.wallet.manager.finance": true,
   "com.budget.expense.tracker.moneyapp": false,
@@ -32,5 +32,5 @@
   "com.smart.emi.planner.finance.calculator": true,
   "com.loan.payment.estimator.finance.tool": false,
   "com.pdfreader.pdfviewer.document.reader.file.manager": false,
-  "com.prank.call.simulator.fakecall.entertainment.funprank": true
+  "com.prank.call.simulator.fakecall.entertainment.funprank": false
 }
